@@ -1,7 +1,6 @@
 package co.winish.kafka.demo;
 
 import co.winish.kafka.config.KafkaConfig;
-import org.apache.kafka.clients.consumer.ConsumerRecords;
 import org.apache.kafka.clients.consumer.KafkaConsumer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
